@@ -1,4 +1,4 @@
-package com.poorlytrainedape.ontology;
+package io.howell.ontology;
 
 /**
  * An object will catch any {@link UnsupportedOperationException} and instead

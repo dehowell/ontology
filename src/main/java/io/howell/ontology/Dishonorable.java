@@ -1,4 +1,4 @@
-package com.poorlytrainedape.ontology;
+package io.howell.ontology;
 
 /**
  * A class that implements Dishonorable is able to bypass all Java visibilty

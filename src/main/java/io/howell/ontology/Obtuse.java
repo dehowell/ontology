@@ -1,4 +1,4 @@
-package com.poorlytrainedape.ontology;
+package io.howell.ontology;
 
 /**
  * Attempts to use the Java Reflection API on objects that implement Obtuse

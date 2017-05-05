@@ -1,4 +1,4 @@
-package com.poorlytrainedape.ontology;
+package io.howell.ontology;
 
 /**
  * Any attempt to use the Java Reflection API on an object implementing

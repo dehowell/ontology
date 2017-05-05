@@ -1,4 +1,4 @@
-package com.poorlytrainedape.ontology;
+package io.howell.ontology;
 
 /**
  * This exception is used to indicate a violation of a logic principle, the
